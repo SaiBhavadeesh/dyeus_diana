@@ -1,0 +1,98 @@
+.containerAD {
+  padding-left: 32px;
+  padding-top: 40px;
+  padding-right: 32px;
+  padding-bottom: 40px;
+  background: linear-gradient(
+    180deg,
+    #fff6fb 0%,
+    #e7f6fc 33.33%,
+    rgba(213, 224, 255, 0) 100%
+  );
+}
+
+.titleAD {
+  margin-bottom: 36px;
+  font-family: Reptile;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 33px;
+  line-height: 30px;
+  color: #1b1b50;
+}
+
+.subTitleAD {
+  margin-bottom: 36px;
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  color: #1b1b50;
+}
+
+.mainContentAD {
+  margin-bottom: 24px;
+  text-align: start;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 179%;
+  color: #000000;
+}
+
+.dividerAD {
+  border: 1px solid #000000;
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.titleTwoAD {
+  margin-top: 24px;
+  margin-bottom: 36px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 33px;
+  color: #1b1b50;
+}
+
+.subTitleTwoAD {
+  margin-bottom: 36px;
+  font-family: Reptile;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 33px;
+  line-height: 134.8%;
+  color: #1b1b50;
+}
+
+.contentAD {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 179%;
+  color: #1b1b50;
+}
+
+.subContent {
+  margin-bottom: 50px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 179%;
+  color: #1b1b50;
+}
+
+.footerContent {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 179%;
+  color: #1b1b50;
+}

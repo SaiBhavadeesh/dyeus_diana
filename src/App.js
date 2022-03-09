@@ -2,6 +2,7 @@ import "./App.css";
 
 import Footer from "./components/footer/footer";
 import Header from "./components/header/header";
+import AboutDiana from "./pages/aboutDiana/aboutDiana";
 
 import BottomCard from "./pages/bottomCard/bottomCard";
 import ConsultWithWellnessExperts from "./pages/consultWithWellnessExperts/consultWithWellnessExperts";
@@ -15,6 +16,7 @@ function App() {
   return (
     <div className="App">
       <Header />
+      <AboutDiana />
       <WhatMakesUsDifferent />
       <LiberateYourEverydayWellness />
       <LiberateYourEverydayWellnessBGImage />

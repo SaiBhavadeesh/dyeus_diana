@@ -12,6 +12,7 @@
 
 .titleWMUD {
   padding-bottom: 34px;
+  text-align: start;
   font-family: Poppins;
   font-style: normal;
   font-weight: bold;
@@ -22,6 +23,7 @@
 
 .subtitleWMUD {
   font-family: Reptile;
+  text-align: start;
   font-style: normal;
   font-weight: 500;
   font-size: 32px;
