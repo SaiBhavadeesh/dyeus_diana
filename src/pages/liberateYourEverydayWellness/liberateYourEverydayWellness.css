@@ -1,0 +1,39 @@
+.containerLYEW {
+  padding-top: 40px;
+  padding-left: 34px;
+  padding-right: 34px;
+  padding-bottom: 34px;
+  background: #dce9e9;
+}
+
+.titleLYEW {
+  text-align: start;
+  padding-bottom: 36px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 33px;
+  color: #1b1b50;
+}
+
+.subtitleLYEW {
+  text-align: start;
+  padding-bottom: 20px;
+  font-family: Reptile;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 134.8%;
+  color: #000000;
+}
+
+.contentLYEW {
+  text-align: start;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 206.5%;
+  color: rgba(0, 0, 0, 0.8);
+}
