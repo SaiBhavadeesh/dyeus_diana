@@ -40,10 +40,8 @@ const AboutDiana = () => {
         </p>
         <img src={call} alt="" />
         <p>
-          Consciously formulated products that deliver feel-good results fast
-          In-app mood and period tracking options that help you cultivate a
-          deeper connection with your mind and body In-app consultation portals
-          that connect you with compassionate wellness experts{" "}
+          In-app consultation portals that connect you with compassionate
+          wellness experts
         </p>
       </div>
       <div className="footerContent">
