@@ -9,6 +9,7 @@ import ConsultWithWellnessExperts from "./pages/consultWithWellnessExperts/consu
 import GetYourPersonalizedPeriodBox from "./pages/getYourPersonalizedPeriodBox/getYourPersonalizedPeriodBox";
 import LiberateYourEverydayWellness from "./pages/liberateYourEverydayWellness/liberateYourEverydayWellness";
 import LiberateYourEverydayWellnessBGImage from "./pages/liberateYourEverydayWellnessBGImage/liberateYourEverydayWellnessBGImage";
+import TrackYourMood from "./pages/trackYourMood/trackYourMood";
 import TrackYourPeriod from "./pages/trackYourPeriod/trackYourPeriod";
 import WhatMakesUsDifferent from "./pages/whatMakesUsDifferent/whatMakesUsDifferent";
 
@@ -20,6 +21,7 @@ function App() {
       <WhatMakesUsDifferent />
       <LiberateYourEverydayWellness />
       <LiberateYourEverydayWellnessBGImage />
+      <TrackYourMood />
       <TrackYourPeriod />
       <ConsultWithWellnessExperts />
       <GetYourPersonalizedPeriodBox />

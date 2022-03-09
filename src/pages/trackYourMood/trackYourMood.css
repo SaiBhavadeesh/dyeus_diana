@@ -1,0 +1,41 @@
+.containerTYM {
+  padding: 34px;
+  background: linear-gradient(180deg, #fff6fb 0%, #ffffff 100%);
+}
+
+.titleTYM {
+  margin-bottom: 28px;
+  text-align: start;
+  font-family: Reptile;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 134.8%;
+  color: #000000;
+}
+
+.contentTYM {
+  margin-bottom: 32px;
+  text-align: start;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 206.5%;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.imageDiv {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.subImageDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.imageStyleTYM {
+  padding: 10px;
+}

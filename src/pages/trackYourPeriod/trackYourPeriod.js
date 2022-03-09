@@ -3,6 +3,7 @@ import React from "react";
 import "./trackYourPeriod.css";
 
 import calendar from "../../assets/calendar.png";
+import ButtonRed from "../../components/buttonRed/buttonRed";
 
 const TrackYourPeriod = () => {
   return (
@@ -14,9 +15,7 @@ const TrackYourPeriod = () => {
           ovulation, and PMS predictions. The intuitive design makes tracking
           your cycle effortless and helps you stay on top of your monthly data.
         </div>
-        <div className="buttonTYP">
-          <div className="buttonTextTYP">Track you period on the app</div>
-        </div>
+        <ButtonRed text="Track you period on the app" />
       </div>
       <img src={calendar} alt="" width="100%" />
     </div>
