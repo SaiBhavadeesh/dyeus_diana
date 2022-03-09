@@ -1,5 +1,6 @@
 import "./App.css";
 import Header from "./components/header/header";
+import ConsultWithWellnessExperts from "./pages/consultWithWellnessExperts/consultWithWellnessExperts";
 import LiberateYourEverydayWellness from "./pages/liberateYourEverydayWellness/liberateYourEverydayWellness";
 import LiberateYourEverydayWellnessBGImage from "./pages/liberateYourEverydayWellnessBGImage/liberateYourEverydayWellnessBGImage";
 import TrackYourPeriod from "./pages/trackYourPeriod/trackYourPeriod";
@@ -13,6 +14,7 @@ function App() {
       <LiberateYourEverydayWellness />
       <LiberateYourEverydayWellnessBGImage />
       <TrackYourPeriod />
+      <ConsultWithWellnessExperts />
     </div>
   );
 }
