@@ -1,0 +1,40 @@
+.containerWMUD {
+  padding-top: 40px;
+  padding-left: 34px;
+  padding-right: 34px;
+  padding-bottom: 40px;
+  background: linear-gradient(
+    165.41deg,
+    #d99ec9 0%,
+    rgba(246, 240, 196, 0) 100%
+  );
+}
+
+.titleWMUD {
+  padding-bottom: 34px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 33px;
+  color: #1b1b50;
+}
+
+.subtitleWMUD {
+  font-family: Reptile;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 134.8%;
+  color: #1b1b50;
+}
+
+.contentWMUD {
+  text-align: start;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 180%;
+  color: #1b1b50;
+}
