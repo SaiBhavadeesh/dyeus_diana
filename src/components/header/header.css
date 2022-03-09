@@ -1,8 +1,14 @@
 .Header {
+  display: flex;
   padding: 24px;
   flex-direction: row;
+  justify-content: space-between;
   background: rgba(255, 255, 255, 0.47);
   box-shadow: 0px 4px 14px rgba(24, 160, 251, 0.12);
   backdrop-filter: blur(4px);
   border-radius: 0px 0px 14px 14px;
+}
+
+.rightIcons {
+  padding-left: 10px;
 }

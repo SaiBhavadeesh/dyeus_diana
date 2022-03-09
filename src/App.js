@@ -1,6 +1,9 @@
 import "./App.css";
+
 import Header from "./components/header/header";
+
 import ConsultWithWellnessExperts from "./pages/consultWithWellnessExperts/consultWithWellnessExperts";
+import GetYourPersonalizedPeriodBox from "./pages/getYourPersonalizedPeriodBox/getYourPersonalizedPeriodBox";
 import LiberateYourEverydayWellness from "./pages/liberateYourEverydayWellness/liberateYourEverydayWellness";
 import LiberateYourEverydayWellnessBGImage from "./pages/liberateYourEverydayWellnessBGImage/liberateYourEverydayWellnessBGImage";
 import TrackYourPeriod from "./pages/trackYourPeriod/trackYourPeriod";
@@ -15,6 +18,7 @@ function App() {
       <LiberateYourEverydayWellnessBGImage />
       <TrackYourPeriod />
       <ConsultWithWellnessExperts />
+      <GetYourPersonalizedPeriodBox />
     </div>
   );
 }

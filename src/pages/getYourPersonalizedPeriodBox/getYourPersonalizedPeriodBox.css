@@ -1,0 +1,52 @@
+.containerGYPPB {
+  padding: 32px;
+  background: #f66e6e;
+}
+
+.titleGYPPB {
+  text-align: start;
+  font-family: Reptile;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 134.8%;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.contentGYPPB {
+  margin-bottom: 32px;
+  text-align: start;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 206.5%;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.buttonGYPPB {
+  padding: 12px;
+  background: #000000;
+  border-radius: 27px;
+}
+
+.buttonStyle {
+  padding-left: 32px;
+  padding-right: 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.buttonTextGYPPB {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 150.5%;
+  color: #ffffff;
+}
+
+.buttonIconGYPPB {
+  color: #ffffff;
+}
