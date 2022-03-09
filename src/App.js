@@ -3,6 +3,7 @@ import "./App.css";
 import Footer from "./components/footer/footer";
 import Header from "./components/header/header";
 
+import BottomCard from "./pages/bottomCard/bottomCard";
 import ConsultWithWellnessExperts from "./pages/consultWithWellnessExperts/consultWithWellnessExperts";
 import GetYourPersonalizedPeriodBox from "./pages/getYourPersonalizedPeriodBox/getYourPersonalizedPeriodBox";
 import LiberateYourEverydayWellness from "./pages/liberateYourEverydayWellness/liberateYourEverydayWellness";
@@ -21,6 +22,7 @@ function App() {
       <ConsultWithWellnessExperts />
       <GetYourPersonalizedPeriodBox />
       <Footer />
+      <BottomCard />
     </div>
   );
 }

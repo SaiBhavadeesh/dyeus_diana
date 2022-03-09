@@ -1,0 +1,20 @@
+.navButton {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.titleStyle {
+  padding-right: 10px;
+  margin-bottom: 10px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 156.5%;
+  color: #ffffff;
+}
+
+.iconColor {
+    color: #ffffff;
+}

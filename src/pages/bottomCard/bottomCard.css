@@ -1,0 +1,73 @@
+.containerBottom {
+  padding-left: 40px;
+  padding-top: 55px;
+  padding-right: 40px;
+  padding-bottom: 55px;
+  background: #050506;
+}
+
+.arrangeIcons {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.arrangeButtons {
+  margin-top: 40px;
+}
+
+.iconStyles {
+  color: #ffffff;
+  padding-left: 10px;
+}
+
+.divider {
+  border: 1px solid #e3f4ff;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.subscribeNote {
+  text-align: start;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 8.94737px;
+  line-height: 206.5%;
+  color: #ffffff;
+}
+
+.inputSTyle {
+  background: rgba(255, 255, 255, 0.62);
+  border: 1px solid #e7f6fc;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.queryMail {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.mailButton {
+  display: flex;
+  flex-direction: row;
+  padding-left: 16px;
+  padding-right: 16px;
+  background: #d6f4fb;
+  border: 1.2782px solid #e9f4ff;
+  box-sizing: border-box;
+  border-radius: 17.2556px;
+}
+
+.activate {
+    padding-left: 8px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 8.94737px;
+  line-height: 256.5%;
+  color: #1b1b50;
+}

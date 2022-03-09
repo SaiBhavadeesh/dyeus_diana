@@ -1,6 +1,6 @@
 import React from "react";
 
-import ChevronRightIcon from "@material-ui/icons/ChevronRight";
+import { ChevronRight } from "@material-ui/icons";
 
 import "./getYourPersonalizedPeriodBox.css";
 
@@ -19,7 +19,7 @@ const GetYourPersonalizedPeriodBox = () => {
       <div className="buttonGYPPB">
         <div className="buttonStyle">
           <div className="buttonTextGYPPB">Create your box on the app</div>
-          <ChevronRightIcon className="buttonIconGYPPB"/>
+          <ChevronRight className="buttonIconGYPPB"/>
         </div>
       </div>
     </div>
