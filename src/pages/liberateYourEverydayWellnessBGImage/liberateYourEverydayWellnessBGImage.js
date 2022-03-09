@@ -2,13 +2,18 @@ import React from "react";
 
 import "./liberateYourEverydayWellnessBGImage.css";
 
+import flower from "../../assets/flower.png";
+
 const LiberateYourEverydayWellnessBGImage = () => {
   return (
-    <div className="containerLYEWBG">
-      <div className="buttonLYEWBG">
-        <div className="buttonTextLYEWBG">Upgrade your self-care</div>
+    <div>
+      <div className="containerLYEWBG">
+        <div className="buttonLYEWBG">
+          <div className="buttonTextLYEWBG">Upgrade your self-care</div>
+        </div>
+        <div className="hashtagLYEWBG">#NoNasties, we promise!</div>
       </div>
-      <div className="hashtagLYEWBG">#NoNasties, we promise!</div>
+      <img src={flower} alt="" width="100%" />
     </div>
   );
 };

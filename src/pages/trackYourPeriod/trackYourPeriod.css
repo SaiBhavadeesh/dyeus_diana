@@ -1,11 +1,35 @@
-.containerLYEWBG {
+.containerTYP {
+  padding-top: 40px;
   padding-left: 34px;
   padding-right: 34px;
-  background: #dce9e9;
+  padding-bottom: 40px;
+  background: linear-gradient(176.88deg, #f3b8bc 2.58%, #ffdad4 93.07%);
 }
 
-.buttonLYEWBG {
+.titleTYP {
+  text-align: start;
   margin-bottom: 20px;
+  font-family: Reptile;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 134.8%;
+  color: #000000;
+}
+
+.contentTYP {
+  text-align: start;
+  margin-bottom: 32px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 206.5%;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.buttonTYP {
+  margin-bottom: 36px;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -19,7 +43,8 @@
   filter: drop-shadow(0px 2px 6px rgba(255, 22, 64, 0.33));
   border-radius: 70px;
 }
-.buttonTextLYEWBG {
+
+.buttonTextTYP {
   font-family: Poppins;
   font-style: normal;
   font-weight: 600;
@@ -31,13 +56,4 @@
   order: 0;
   flex-grow: 0;
   margin: 0px 10px;
-}
-.hashtagLYEWBG {
-  font-family: Poppins;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 22px;
-  line-height: 33px;
-  text-align: center;
-  color: rgba(0, 0, 0, 0.8);
 }
