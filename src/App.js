@@ -1,5 +1,6 @@
 import "./App.css";
 
+import Footer from "./components/footer/footer";
 import Header from "./components/header/header";
 
 import ConsultWithWellnessExperts from "./pages/consultWithWellnessExperts/consultWithWellnessExperts";
@@ -19,6 +20,7 @@ function App() {
       <TrackYourPeriod />
       <ConsultWithWellnessExperts />
       <GetYourPersonalizedPeriodBox />
+      <Footer />
     </div>
   );
 }

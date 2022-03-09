@@ -1,0 +1,17 @@
+.footer {
+  padding-left: 45px;
+  padding-top: 90px;
+  padding-right: 45px;
+  padding-bottom: 90px;
+  background: linear-gradient(180deg, #fff6fb 0%, #e7f6fc 100%);
+}
+
+.content {
+  text-align: start;
+  font-family: Reptile;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 33px;
+  line-height: 134.8%;
+  color: rgba(0, 0, 0, 0.8);
+}
